@@ -33,7 +33,7 @@
 # Exemplos de aplicação das heurísticas de Nielsen
 | ID Eurística | Imagem | Descrição |
 |--|--|--|
-| 1 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
+| 1 | ![](./IMG/STEAM.jpeg) | A aba de downlods da STEAM é um exemplo de manter os usuários informados sobre o que está acontecendo, no exemplo da imagem, ao baixar algum jogo, a steam fica constantemente informando ao usuário o progresso de download e o tempo restante para a conclusão da tarefa |
 | 1 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
 | 2 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
 | 3 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
