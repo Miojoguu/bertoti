@@ -26,7 +26,7 @@
 
 9. **Reconhecimento de erros:** Quando ocorrerem erros, o sistema deve fornecer mensagens de erro claras e significativas, indicando o problema de maneira não técnica e sugerindo soluções construtivas para corrigir o erro.
 
-10. **Ajuda e documentação:** Quando necessário, deve haver um suporte claro e acessível para ajudar os usuários a compreenderem o sistema. Isso pode incluir documentação de ajuda, tutoriais, dicas de contexto e mensagens de erro explicativas.
+10. **Ajuda e documentação:** Quando necessário, deve haver um suporte claro e acessível para ajudar os usuários a compreenderem o sistema. Isso pode incluir documentação de ajuda, tutoriais, dicas de contexto e mensagens de erro explicativas
 
 <hr>
 
@@ -34,10 +34,10 @@
 | ID Eurística | Imagem | Descrição |
 |--|--|--|
 | 1 | ![](./IMG/STEAM.jpeg) | A aba de downlods da STEAM é um exemplo de manter os usuários informados sobre o que está acontecendo, no exemplo da imagem, ao baixar algum jogo, a steam fica constantemente informando ao usuário o progresso de download e o tempo restante para a conclusão da tarefa |
-| 1 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
-| 2 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
-| 3 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
-| 4 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
+| 4 | ![](./IMG/Word.PNG) | O sistema do Google Docs é um bom exemplo de consistência e padrões, o sistema utiliza elementos visuais como botões, ícones e menus, que são consistentes em todo o sistema, o sistema também segue convenções amplamente aceitas para que os usuários possam entender e prever o comportamento do sistema |
+| 6 | ![](./IMG/terminal.PNG) | Como podemos ver no exemplo com um simples comando todas as opções possiveis são mostradas para se usar o github |
+| 6 | ![](./IMG/twitter.PNG) | O sistema do Twitter é um exemplo de reconhecimento ao invés de memorização, o sistema utiliza elementos visuais para direcionar a atenção do usuário para as informações e ações mais importantes, no exemplo da imagem, o sistema utiliza um ícone de balãozinho para o usuário curtir um tweet, ao invés de utilizar um texto como "comentar", o que é um padrão amplamente aceito entre redes sociais |
+| 9 | ![](./IMG/tela-azul.jpg) | O sistema operacional Windows é um exemplo de reconhecimentos de erros, no exemplo da imagem, após ocorrer a famosa "tela azul da morte", o sistema exibe uma mensagem de erro para o usuário, indicando o problema de maneira não técnica e sugerindo soluções construtivas para corrigir o erro |
 | 5 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
 | 5 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
 | 5 | ![](./IMG/BLACK.jpg) | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco |
